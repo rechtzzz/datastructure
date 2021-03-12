@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
-
+/*
+    简单实现队列
+*/
 template<typename T>
 struct node
 {   
